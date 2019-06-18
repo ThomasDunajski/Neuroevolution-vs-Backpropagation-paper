@@ -39,7 +39,7 @@
 %%
 \begin{abstract}
 This work compares the learning speed and accuracy of neuroevolution and backpropagation on automotive data. Neuroevolution of Augumenting Topologies will be compared against Backpropagation using Adaptive Movement Estimation as optimizer. While the training utilizing backpropagation is faster and yields more accurate results, the neuroevolutional approach creates smaller networks and needs less a priori assumptions by the author to learn.
-\keywords{Artifical Neuronal Networks, Neuroevolutin, Backpropagation, training performance}
+\keywords{Artificial Neuronal Networks, Neuroevolution, Backpropagation, training performance comparison}
 \end{abstract}
 
 %%
@@ -243,6 +243,10 @@ Testing learning performance on variety of datasets would be a good next step, b
 Bringing ideas from BP and NE together and creating hybrids of the strategies might be very interesting as well. I.e. generating a topology using NEAT or one of its brethren in a first step and then using BP on the topology might lead to a minimal network size seen in the NEAT experiment and the precision seen in the BP experiment. Another type of hybrid approach might be combining both approaches during learning, i.e. use BP on each solution candidate to train its weights and using the training error as fitness value \cite{Desell.16.03.2017}. 
 %
 %
+\newline
+\newline
+\newline
+Sourcecodes can be found on https://github.com/ThomasDunajski/Neuroevolution-vs-Backpropagation-paper
 %
 % ---- Bibliography ----
 %
