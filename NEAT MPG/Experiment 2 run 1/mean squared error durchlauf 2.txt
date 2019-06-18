@@ -1,0 +1,6 @@
+0,05852662333544353
+
+ ****** Running generation 2831 ******
+
+Population's average fitness: 0.85145 stdev: 0.10796
+Best fitness: 0.99195 - size: (34, 32) - species 10 - id 418654

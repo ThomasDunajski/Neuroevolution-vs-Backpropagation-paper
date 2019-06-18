@@ -1,0 +1,8 @@
+0,0645590576851294
+
+ ****** Running generation 924 ******
+
+Population's average fitness: 0.85176 stdev: 0.10487
+Best fitness: 0.99234 - size: (14, 20) - species 6 - id 135736
+
+Best individual in generation 924 meets fitness threshold - complexity: (14, 20)

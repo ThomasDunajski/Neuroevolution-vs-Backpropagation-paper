@@ -1,0 +1,8 @@
+0,06520377140428715
+
+ ****** Running generation 134 ******
+
+Population's average fitness: -1820668927868986528328943927296.00000 stdev: 22224096525870990855838745231360.00000
+Best fitness: 0.99191 - size: (10, 13) - species 8 - id 19688
+
+Best individual in generation 134 meets fitness threshold - complexity: (10, 13)

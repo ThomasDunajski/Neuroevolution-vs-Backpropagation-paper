@@ -1,0 +1,8 @@
+0,06286592947761827
+
+  Running generation 221 
+
+Population's average fitness -20610925983042029328707035777177884848624733519872.00000 stdev 252431258923623758825942066240236261081834317676544.00000
+Best fitness 0.99234 - size (9, 6) - species 13 - id 32332
+
+Best individual in generation 221 meets fitness threshold - complexity (9, 6)
